@@ -1,4 +1,4 @@
-# javaScriptCEV
+# Linguagem de Programação JavaScript
 
 Curso de JavaScript e ECMAScript para Iniciantes produzido pelo [Curso em Vídeo](https://www.cursoemvideo.com/) e o [Google](https://www.google.com.br/)
 
